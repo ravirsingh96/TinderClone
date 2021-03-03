@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A77746EE-248F-4D75-AF42-918D70193CA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7311EF97-364A-4BAC-81E9-F4B0438A39E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinderClone/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7311EF97-364A-4BAC-81E9-F4B0438A39E4 - 26538fdbe54027d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinderClone.ContentView.obs.getter : TinderClone.observer"
+                  moduleName = "TinderClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raviranjan/Desktop/TinderClone/TinderClone/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "7311EF97-364A-4BAC-81E9-F4B0438A39E4 - 89708b90d8d6d94f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinderClone.ContentView.$obs.getter : SwiftUI.EnvironmentObject&lt;TinderClone.observer&gt;.Wrapper"
+                  moduleName = "TinderClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raviranjan/Desktop/TinderClone/TinderClone/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "7311EF97-364A-4BAC-81E9-F4B0438A39E4 - 7b827505f1ddf41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinderClone.ContentView.init() -&gt; TinderClone.ContentView"
+                  moduleName = "TinderClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raviranjan/Desktop/TinderClone/TinderClone/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
